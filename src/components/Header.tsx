@@ -39,7 +39,7 @@ const Header: FC<HeaderProps> = ({ fixed, transparent }) => {
     <header className={headerClass}>
       <div className="container">
         <div className="header__brand">
-          <h1><Link to="/">React</Link></h1>
+          <h1><Link to="/">David</Link></h1>
         </div>
         <div className="header__nav">
           <div className="header__nav_lang">
