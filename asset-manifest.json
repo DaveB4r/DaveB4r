@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f8c6d4c.css",
-    "main.js": "/static/js/main.35e39f36.js",
+    "main.css": "/static/css/main.90d36be4.css",
+    "main.js": "/static/js/main.381d5f0a.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/agency_bg.jpg": "/static/media/agency_bg.f620b9bbe0ab1090d2d8.jpg",
-    "static/media/1.jpg": "/static/media/1.48fcfeaae6a4f4c36e36.jpg",
+    "static/media/pokeApi.gif": "/static/media/pokeApi.991b4439d7e2230d09ee.gif",
+    "static/media/layout.gif": "/static/media/layout.684c82aac564fe719adb.gif",
+    "static/media/calculator.gif": "/static/media/calculator.026a6bdd8022ef285b44.gif",
+    "static/media/pokeApi.png": "/static/media/pokeApi.8ce5a61655b14395983e.png",
+    "static/media/myself.jpg": "/static/media/myself.0d18a95e7cc9db191a36.jpg",
+    "static/media/dev-logo.png": "/static/media/dev-logo.e8f9b7618709eba22e00.png",
+    "static/media/layout.png": "/static/media/layout.2456172998eabba96b28.png",
+    "static/media/calculator.png": "/static/media/calculator.b597c5d3e88ff9f22699.png",
     "index.html": "/index.html",
-    "main.3f8c6d4c.css.map": "/static/css/main.3f8c6d4c.css.map",
-    "main.35e39f36.js.map": "/static/js/main.35e39f36.js.map",
+    "main.90d36be4.css.map": "/static/css/main.90d36be4.css.map",
+    "main.381d5f0a.js.map": "/static/js/main.381d5f0a.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f8c6d4c.css",
-    "static/js/main.35e39f36.js"
+    "static/css/main.90d36be4.css",
+    "static/js/main.381d5f0a.js"
   ]
 }
