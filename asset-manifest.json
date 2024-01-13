@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.90d36be4.css",
-    "main.js": "/static/js/main.381d5f0a.js",
+    "main.css": "/static/css/main.c3c381c8.css",
+    "main.js": "/static/js/main.94285352.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/blog.gif": "/static/media/blog.e33ed4889de3a4957f83.gif",
     "static/media/pokeApi.gif": "/static/media/pokeApi.991b4439d7e2230d09ee.gif",
+    "static/media/todo.gif": "/static/media/todo.983bdbf032d0258f41e7.gif",
     "static/media/layout.gif": "/static/media/layout.684c82aac564fe719adb.gif",
     "static/media/calculator.gif": "/static/media/calculator.026a6bdd8022ef285b44.gif",
+    "static/media/dev-logo.png": "/static/media/dev-logo.63ffede806feaafee68a.png",
     "static/media/pokeApi.png": "/static/media/pokeApi.8ce5a61655b14395983e.png",
     "static/media/myself.jpg": "/static/media/myself.0d18a95e7cc9db191a36.jpg",
-    "static/media/dev-logo.png": "/static/media/dev-logo.e8f9b7618709eba22e00.png",
+    "static/media/blog.jpeg": "/static/media/blog.4d9a9b5e0edd824747d4.jpeg",
+    "static/media/todo.jpeg": "/static/media/todo.27b183dc5bd41ced9eaf.jpeg",
     "static/media/layout.png": "/static/media/layout.2456172998eabba96b28.png",
     "static/media/calculator.png": "/static/media/calculator.b597c5d3e88ff9f22699.png",
     "index.html": "/index.html",
-    "main.90d36be4.css.map": "/static/css/main.90d36be4.css.map",
-    "main.381d5f0a.js.map": "/static/js/main.381d5f0a.js.map",
+    "main.c3c381c8.css.map": "/static/css/main.c3c381c8.css.map",
+    "main.94285352.js.map": "/static/js/main.94285352.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90d36be4.css",
-    "static/js/main.381d5f0a.js"
+    "static/css/main.c3c381c8.css",
+    "static/js/main.94285352.js"
   ]
 }
